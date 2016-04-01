@@ -1,8 +1,8 @@
 # HttpRequestRestAPI
-REST API that takes two inputs at the time of deploying a bar file and can also be changed at runtime.
-This bar file can be used to call the ZOSConnect API
+IIB REST API that takes two inputs at the time of deploying a bar file and can also be changed at runtime.
+This bar file can be used to call the ZOSConnect API. Created using IBM Integration Bus 10.0.0.3 
 
-### Implemeneted API
+### Implemeneted API 
 REST API: http://localhost:7800/apiJson
 
 Method: as defined by your variable

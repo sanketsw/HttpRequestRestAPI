@@ -30,7 +30,7 @@ mqsideploy TESTNODE_root -e default -a ZOSRestAPIproject.generated.bar
 
 
 **Using from IBM Integration explorer**
-
+![90404922d08747a](https://cloud.githubusercontent.com/assets/14492591/14194960/a05fb1d8-f7ff-11e5-80d8-34344b930d8a.jpg)
 
 
 ###How to execute the API
@@ -52,4 +52,6 @@ Request Header: **Content-Type: application/json**
 
 Request Body: JSON Input of the API such as  {  "left": 5,  "right": 6 }
 
+
+![21603bfe7d199f47-1](https://cloud.githubusercontent.com/assets/14492591/14194959/a000b03e-f7ff-11e5-8758-6ab483dc3f1b.jpg)
 
